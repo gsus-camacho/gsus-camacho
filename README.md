@@ -23,6 +23,6 @@ I don't just push pixels; I engineer digital habits and scalable architectures t
 ### See my work in action
 The best way to understand my logic is to see my case studies.
 
-**[Explore my Portfolio: gsuscamacho.framer.website](https://gsuscamacho.framer.website/)**
+**Explore my Portfolio: [gsuscamacho.framer.website](https://gsuscamacho.framer.website/)**
 
 **Reach out to me on [LinkedIn](https://www.linkedin.com/in/gsuscamacho/)**
