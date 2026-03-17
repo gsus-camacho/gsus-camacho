@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Jesús Camacho 👋
 
-<!--
-**gsus-camacho/gsus-camacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📐 Product Designer & UX Architect
 
-Here are some ideas to get you started:
+I bridge the gap between complex physical operations and scalable digital ecosystems. With a background in Industrial Design, I specialize in B2B SaaS platforms, Design Systems, and frictionless user experiences. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don't just push pixels; I engineer digital habits and scalable architectures that developers love to build.
+
+---
+
+### 🚀 What I bring to the table:
+- **Product Strategy:** Translating business goals and physical workflows into intuitive UIs.
+- **Design Systems & Tokens:** Creating scalable, code-ready design architectures bridging Figma and front-end.
+- **Prototyping & Development:** Bridging the gap using tools like Framer (React-based) and Spline (3D Web).
+- **Core Focus:** B2B SaaS, Complex Data Visualization, Context-Aware Ergonomics.
+
+### 🛠️ My Tech & Design Stack:
+`Figma` `Framer` `Flutterflow` `Design Tokens` `HTML/CSS` `Web Performance`
+
+---
+
+### 🌐 See my work in action
+The best way to understand my logic is to see my case studies.
+
+👉 **[Explore my Portfolio: gsuscamacho.framer.website](https://gsuscamacho.framer.website/)**
+
+📫 **Reach out to me on [LinkedIn](https://www.linkedin.com/in/gsuscamacho/)**
